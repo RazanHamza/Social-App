@@ -4,7 +4,7 @@ import Login from './Pages/Login';
 import Register from './Pages/Register';
 import MainLayout from './Layouts/MainLayout';
 import AuthLayout from './Layouts/AuthLayout';
-import FeedPage from './Pages/feedPage';
+import FeedPage from './Pages/FeedPage';
 import NoteFoundPage from './Pages/NoteFoundPage';
 import PostDetailsPage from './Pages/PostDetailsPage';
 import ProfilePage from './Pages/ProfilePage';
